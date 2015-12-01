@@ -14,8 +14,8 @@
 	"require": {
 		"php": ">=5.3.2",
 		"leg/googlecharts": "1.*@dev",
-		"symfony/framework-bundle": "~2.1",
-		"symfony/security-bundle": "~2.1"
+		"symfony/framework-bundle": "*",
+		"symfony/security-bundle": "*"
 	},
 	"require-dev": {
 		"twig/twig": "~1.5"
